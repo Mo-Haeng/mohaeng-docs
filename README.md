@@ -85,7 +85,7 @@ mohang-activity-participation
 </br>
 </br>
 
-## mohang-alram
+## mohang-alarm
 ```
 - 알람 기능 담당 (실제 알림을 보내는 서비스)
 ```	
@@ -120,6 +120,8 @@ mohang-member-batch
 mohang-member-admin
 
 mohang-member-query
+
+mohang-member-jwt
 ```
 </br></br></br>
 
