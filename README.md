@@ -38,20 +38,13 @@ JWT를 가지고 인증 수행, 인증정보를 각각의 서비스들의 요청
 
 ## mohang-meeting 
 ```
-mohang-meeting-core 
+
 - 모임 생성, 수정, 삭제, 모집, 인원 추가&감소(가입 수락 시 인원 추가), 더치패이 등 
 
-mohang-meeting-query 
 - 모임 목록 조회
-		
-mohang-meeting-document
+
 - 모임에 가입한 인원들 명단 문서화
 
-mohang-meeting-batch
-
-mohang-meeting-admin
-
-mohang-meeting-participation
 - 가입신청, 탈퇴, 가입 수락, 가입 거절,
 ```
 
@@ -62,16 +55,16 @@ mohang-meeting-participation
 
 ## mohang-activity 
 ```
-mohang-activity-core
+
 - 활동 모집, 활동 명단관리(참가자, 비용지불 여부 등)
 
-mohang-activity-query
+
 - 활동 목록 조회
 		
-mohang-activity-document
+
 - 활동 명단 문서화
 
-mohang-activity-participation
+
 - 활동 신청, 활동 수락&거절, 활동 신청 취소 등
 ```
 
@@ -109,19 +102,11 @@ mohang-activity-participation
 
 ## mohang-member
 ```
-mohang-member-core
+
 - 회원 가입, 회원 탈퇴, 회원정보 수정 등
 
-mohang-member-auth
 - 로그인, 로그아웃등의 기능 제공
 
-mohang-member-batch
-
-mohang-member-admin
-
-mohang-member-query
-
-mohang-member-jwt
 ```
 </br></br></br>
 
